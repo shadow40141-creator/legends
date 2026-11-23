@@ -1,0 +1,6 @@
+{
+  "name": "Dawn Vault",
+  "description": "MLBB-inspired gaming portal featuring hero dossiers, item build planner, and collector hero card shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
